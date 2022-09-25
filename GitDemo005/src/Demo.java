@@ -14,7 +14,11 @@ public class Demo
 		
 	}
 	
-	
+	public void m30()
+	{
+		System.out.println(" M30 method ");
+		
+	}
 	
 	
 	
