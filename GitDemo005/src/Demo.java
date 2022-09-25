@@ -14,11 +14,9 @@ public class Demo
 		
 	}
 	
-	public void m3()
-	{
-		System.out.println(" M3 method ");
-		
-	}
+	
+	
+	
 	
 	public void m4()
 	{
@@ -50,7 +48,7 @@ public class Demo
 		d.m1();
 		d.m2();
 		
-		d.m3();
+		
 		
 		d.m4();
 		
