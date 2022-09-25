@@ -52,7 +52,7 @@ public class Demo
 		d.m1();
 		d.m2();
 		
-		
+		d.m30();
 		
 		d.m4();
 		
